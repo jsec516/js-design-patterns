@@ -1,7 +1,7 @@
 # Facade Pattern
 
 
-## What it is?
+## What is it?
 This pattern provides a convenient higher-level interface to a larger body of code, hiding its true underlying complexity. Think of it as simplifying the API being presented to other developers, something which almost always improves usability.
 
 
